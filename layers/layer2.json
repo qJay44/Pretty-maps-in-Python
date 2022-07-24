@@ -1,0 +1,20 @@
+{
+    "perimeter": {},
+    "streets": {
+        "width": {
+            "trunk": 2,
+            "primary": 2,
+            "secondary": 1,
+            "tertiary": 4,
+            "residential": 3.5,
+            "pedestrian": 3,
+            "footway": 3,
+            "path": 3
+        }
+    },
+    "building": {"tags": {"building": true, "leisure": ["track", "pitch"]}, "union": false},
+    "water": {"tags": {"natural": ["water", "bay"]}},
+    "park": {"tags": {"leisure": "park"}},
+    "forest": {"tags": {"landuse": "forest"}},
+    "garden": {"tags": {"leisure": "garden"}}
+}
